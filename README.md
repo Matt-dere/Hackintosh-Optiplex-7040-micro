@@ -36,7 +36,7 @@ Follow this Guide and Download Method: -> https://github.com/corpnewt/gibMacOS <
 <li> The following assumes your USB stick is called "USB_NAME" Normality is "MyVolume". </li>
 <li> Check that "USB_NAME"/"MyVolume" is partitioned with GUID. </li>
 <li> Open the terminal and enter this command to create the installer (Replace "USB_NAME"/"MyVolume" with your USB name. In this case Untitled. </li>
-<li> sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/USB_NAME or MyVolume </li>
+<li> sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume </li>
 <li> At the end your USB should be named "Install macOS Catalina". </li>
 
 # config.plist
