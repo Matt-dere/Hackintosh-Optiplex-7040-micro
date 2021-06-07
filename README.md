@@ -47,7 +47,7 @@ use this tool to genereate one. -> https://github.com/corpnewt/GenSMBIOS <-
 
 # Bios Settings
 Skip steps with setting you can’t find in your BIOS
-<li> Disable </li>
+<li> ----> Disable <----- </li>
 
 <li> Fast Boot </li>
 <li> Secure Boot </li>
@@ -61,8 +61,7 @@ Skip steps with setting you can’t find in your BIOS
 <li> CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleXcpmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled) </li>
 
 
-
-<li> Enable </li>
+<li> ----> Enable <---- </li>
 
 <li> VT-x </li>
 <li> Above 4G decoding </li>
