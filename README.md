@@ -76,7 +76,7 @@ Skip steps with setting you can’t find in your BIOS
 # Discord
 Join our discord to be one of the first to receive updates and news to anything tech!
 
-https://discord.gg/DDXmRxXX8Y
+https://discord.gg/kQtzkqhD
 
 
 # Thanks to:
